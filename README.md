@@ -9,7 +9,7 @@ An interactive terminal-style portfolio website built with vanilla HTML, CSS, an
 - Command history with arrow key navigation
 - Tab completion for available commands
 - Real-time typing animations
-- Mobile-responsive design with touch support
+- Fully usable on phones and tablets: tap to type, command chips, safe-area aware
 
 ### Available Commands
 - `help` - Show all available commands
@@ -17,7 +17,7 @@ An interactive terminal-style portfolio website built with vanilla HTML, CSS, an
 - `about` - About me and my background
 - `skills` - Tech stack and technologies
 - `contact` - Find me online with links
-- `open` - Quick access to projects (tiendly, memlink, github, x)
+- `open` - Open a project or profile (tiendly, pickea, roldos, explorador, asciidot, github, x, instagram, telegram, mail)
 - `pwd` - Show current directory
 - `projects` - List active projects with descriptions
 - `now` - Current time and work status
@@ -30,7 +30,7 @@ An interactive terminal-style portfolio website built with vanilla HTML, CSS, an
 
 ### Visual Features
 - Typing animation for welcome message
-- Dynamic prompt colors (green for `rblez@Ray >`, white for input)
+- Dynamic prompt colors (green for `rblez@web >`, white for input)
 - Fade-in animations for output lines
 - Responsive design for desktop, tablet, and mobile
 - Custom favicon set for all platforms
