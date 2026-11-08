@@ -104,11 +104,12 @@ MIT License - feel free to use this for your own terminal-style projects.
 
 ## Author
 
-**Ray (rblez)** - Software engineer building digital infrastructure for Cuban businesses.
+**rblez** - Software Engineer & Builder, Santiago de Cuba, Cuba.
 
 - Email: hello@rblez.com
-- X/Twitter: [@rblezzzz](https://x.com/rblezzzz)
-- LinkedIn: [linkedin.com/in/rblez](https://linkedin.com/in/rblez)
+- X: [@rblez_](https://x.com/rblez_)
+- Instagram: [@rayomarblez](https://instagram.com/rayomarblez)
+- Telegram: [@rblez](https://t.me/rblez)
 - GitHub: [github.com/rblez](https://github.com/rblez)
 
 ---
